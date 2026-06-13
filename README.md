@@ -1,85 +1,183 @@
-<h1 align="center">Hi there, I'm Tejas Kale 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>Full Stack Developer · Learning MERN Stack & JavaScript · Building projects & growing daily 🚀</em>
-</p>
+<a href="https://github.com/thetejascodes">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Tejas%20Kale&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=thetejascodes&descAlignY=60&descSize=20&descColor=a78bfa" width="100%"/>
+</a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+the+Making;MERN+Stack+%7C+JavaScript+%7C+Node.js;Building+cool+projects+every+day+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Full+Stack+Developer+in+the+Making+%F0%9F%9A%80;MERN+%7C+Redis+%7C+Kafka+%7C+System+Design;Vertical+%26+Horizontal+Scaling+%F0%9F%94%A5;Building+systems+that+don't+break+under+load" alt="Typing animation" />
 
----
+<br/>
 
-## 🙋‍♂️ About Me
+[![GitHub followers](https://img.shields.io/github/followers/thetejascodes?style=for-the-badge&color=7c3aed&labelColor=0f0c29&logo=github)](https://github.com/thetejascodes?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=thetejascodes&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/thetejascodes)
 
-- 🎯 Currently **learning** and leveling up every day
-- 🌱 Deep diving into the **MERN Stack** (MongoDB, Express, React, Node.js)
-- 🔨 Building real-world projects to sharpen my skills
-- 📍 Based in **Parbhani, Maharashtra, India**
-- ✍️ I write about my journey on [Hashnode](https://hashnode.com/@thetejascodes)
-- 📸 Follow me on Instagram [@tejasx99](https://www.instagram.com/tejasx99/)
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
----
+```typescript
+const tejas = {
+  name: "Tejas Kale",
+  handle: "@thetejascodes",
+  location: "Parbhani, Maharashtra, India 📍",
+  role: "Fullstack Developer (Learning → Building → Scaling)",
+
+  currentlyLearning: [
+    "System Design — HLD & LLD",
+    "Redis Cache + Pub/Sub",
+    "Apache Kafka & Event-Driven Architecture",
+    "Horizontal & Vertical Scaling",
+    "Database Sharding & Replication",
+    "Load Balancing Strategies",
+  ],
+
+  stack: {
+    frontend:  ["React", "HTML", "CSS", "JavaScript", "TypeScript"],
+    backend:   ["Node.js", "Express.js"],
+    databases: ["MongoDB", "Redis"],
+    messaging: ["Kafka (learning)", "WebSockets"],
+    devOps:    ["Git", "GitHub", "Docker (learning)"],
+  },
+
+  currentFocus: "Building systems that scale to millions of users 🔥",
+  funFact: "I debug in production... just kidding. Or am I? 😅",
+};
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ⚡ System Design Concepts I'm Mastering
+
+<div align="center">
+
+| Concept | What I'm Learning | Status |
+|---|---|---|
+| 🔴 **Redis Cache** | TTL, LRU eviction, cache-aside pattern, write-through | 🟡 In Progress |
+| 📡 **Redis Pub/Sub** | Real-time messaging, fan-out, channel subscriptions | 🟡 In Progress |
+| 🟠 **Apache Kafka** | Topics, partitions, consumer groups, event streaming | 🟡 Learning |
+| ⬆️ **Vertical Scaling** | Upgrading CPU/RAM, single-node limits, when to use it | ✅ Understood |
+| ↔️ **Horizontal Scaling** | Sharding, replication, stateless services, load balancers | 🟡 In Progress |
+| 🔀 **Load Balancing** | Round-robin, least connections, consistent hashing | 🔵 Exploring |
+| 🗃️ **DB Sharding** | Range-based, hash-based, directory-based sharding | 🔵 Exploring |
+| 🌐 **WebSockets** | Real-time bidirectional communication at scale | ✅ Built Projects |
+| 🏗️ **Microservices** | Service decomposition, inter-service communication | 🔵 Exploring |
+| 📊 **Rate Limiting** | Token bucket, sliding window, leaky bucket algorithms | ✅ Built Projects |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases & Messaging
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| [🤝 collabHub AI Workspace](https://github.com/thetejascodes/collabHub-Ai-team-work-space) | AI-powered collaborative backend with real-time task management & intelligent task generation | TypeScript, Node.js, Express, MongoDB |
-| [✅ One Million Checkbox](https://github.com/thetejascodes/One-million-checkbox) | Real-time distributed system handling 1M+ checkbox interactions with sub-second latency | WebSockets, Redis, CSS |
-| [🌐 MERN Portfolio](https://github.com/thetejascodes/mern-portfolio) | Full-stack personal portfolio that dynamically showcases projects, blogs & skills | MERN Stack |
-| [🧠 JS 30 Days](https://github.com/thetejascodes/JS-30-Days) | 30 mini JS projects to build core JavaScript fundamentals | HTML, CSS, JavaScript |
+<div align="center">
 
----
+<a href="https://github.com/thetejascodes/collabHub-Ai-team-work-space">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thetejascodes&repo=collabHub-Ai-team-work-space&theme=midnight-purple&hide_border=true&bg_color=0f0c29" />
+</a>
+<a href="https://github.com/thetejascodes/One-million-checkbox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thetejascodes&repo=One-million-checkbox&theme=midnight-purple&hide_border=true&bg_color=0f0c29" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/thetejascodes/mern-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thetejascodes&repo=mern-portfolio&theme=midnight-purple&hide_border=true&bg_color=0f0c29" />
+</a>
+<a href="https://github.com/thetejascodes/JS-30-Days">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thetejascodes&repo=JS-30-Days&theme=midnight-purple&hide_border=true&bg_color=0f0c29" />
+</a>
+
+</div>
+
+<br/>
+
+> 🔥 **[collabHub AI Workspace](https://github.com/thetejascodes/collabHub-Ai-team-work-space)** — AI-powered collaborative backend. Real-time task management, intelligent task generation — TypeScript, Node.js, Express & MongoDB.
+>
+> ✅ **[One Million Checkbox](https://github.com/thetejascodes/One-million-checkbox)** — Real-time distributed system handling **1M+ interactions** with sub-second latency using WebSockets, Redis & custom rate limiting.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thetejascodes&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetejascodes&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thetejascodes&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=thetejascodes&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetejascodes&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" height="180"/>
 
----
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thetejascodes&theme=midnight-purple&hide_border=true&background=0f0c29&stroke=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thetejascodes&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true" width="100%"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎯 2025 Learning Roadmap
+
+```
+[✅] MERN Stack Foundation        ████████████████████ 100%
+[✅] WebSockets & Real-time       ████████████████░░░░  80%
+[✅] Redis Caching Basics         ███████████████░░░░░  75%
+[🟡] Redis Pub/Sub                ████████████░░░░░░░░  60%
+[🟡] System Design Fundamentals   ██████████░░░░░░░░░░  50%
+[🟡] Horizontal Scaling           ████████░░░░░░░░░░░░  40%
+[🔵] Apache Kafka                 ██████░░░░░░░░░░░░░░  30%
+[🔵] Microservices Architecture   █████░░░░░░░░░░░░░░░  25%
+[🔵] Kubernetes / Container Orch  ███░░░░░░░░░░░░░░░░░  15%
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://hashnode.com/@thetejascodes" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/tejasx99/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://github.com/thetejascodes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-thetejascodes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thetejascodes)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@thetejascodes)
+[![Instagram](https://img.shields.io/badge/Instagram-tejasx99-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tejasx99/)
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=thetejascodes.thetejascodes" alt="Visitors" />
-</p>
+<br/>
 
-<p align="center">⭐ <em>If you like my work, consider starring some repos!</em> ⭐</p>
+> _"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."_ — Martin Fowler
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+</div>
