@@ -21,8 +21,9 @@ Currently going deep on: **WebSockets · Redis · Kafka · System Design · Hori
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
+| **[Meridian](https://github.com/thetejascodes/Meridian)** | Keyboard-first, AI-native Gmail & Calendar client — vector search, real-time webhooks, LLM priority filtering | Next.js, PostgreSQL, Drizzle, pgvector, TypeScript | 🔨 In Progress |
 | **LeetCode Clone** | Code execution platform with real-time judge | Node.js, React, WebSockets, Redis | 🔨 Building |
-| **Form Builder SaaS** | Drag-and-drop form builder, shareable links, response dashboard | React, Node.js, MongoDB | 🔨 Building |
+| **Form Builder SaaS** | Drag-and-drop form builder, shareable links, response analytics | React, Node.js, MongoDB | 🔨 Building |
 | **CodeRabbit Clone** | AI-powered PR review bot via GitHub webhooks | Node.js, OpenAI API, GitHub API | 🔨 Building |
 | **flag.live** | Real-time feature flag management system | Node.js, React, Redis, WebSockets | 🔨 Building |
 | **Unsaid** | Anonymous message platform with real-time delivery | Node.js, React, MongoDB, WebSockets | 🔨 Building |
@@ -37,7 +38,7 @@ Currently going deep on: **WebSockets · Redis · Kafka · System Design · Hori
 
 **Backend** — Node.js · Express.js
 
-**Databases** — MongoDB · Redis
+**Databases** — MongoDB · PostgreSQL · Redis
 
 **Real-time & Messaging** — WebSockets · Socket.io · Apache Kafka *(learning)*
 
