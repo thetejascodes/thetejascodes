@@ -82,5 +82,5 @@ Microservices        █████░░░░░░░░░░░░░░�
 - Be able to explain every architectural decision I make
 
 ---
-
 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
+
