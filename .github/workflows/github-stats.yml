@@ -1,32 +1,23 @@
-# Save this file as: .github/workflows/github-stats.yml
-# in your thetejascodes/thetejascodes repo (same repo as your snake workflow).
-#
-# Unlike the snake action, jstrieb/github-stats pushes its own results directly
-# to a branch called "generated" — you do NOT need a separate push step for this one.
-
-name: Generate GitHub Stats Images
+name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # once a day, like your snake workflow
+    - cron: "0 0 * * *"   # once a day
   workflow_dispatch: {}
   push:
     branches:
       - main
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Generate stats images
-        uses: jstrieb/github-stats@master
+      - uses: lowlighter/metrics@latest
         with:
-          username: ${{ github.repository_owner }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # This MUST be a separate Personal Access Token, not the default GITHUB_TOKEN,
-          # because it needs read:user + repo scope to read your full contribution history
-          # (including private repos). GITHUB_TOKEN alone can't do that.
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          # Reuses the same ACCESS_TOKEN secret you already created
+          token: ${{ secrets.ACCESS_TOKEN }}
+          filename: metrics.svg
+          base: "header, activity, community, repositories, metadata"
+          plugin_languages: yes
