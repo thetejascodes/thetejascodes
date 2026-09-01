@@ -96,6 +96,17 @@ philosophy: ship it, document it, verify it end-to-end
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=thetejascodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=thetejascodes&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
