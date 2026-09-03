@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Tejas Kale
 ### Full Stack Developer • MERN & TypeScript
@@ -117,4 +117,4 @@ philosophy: ship it, document it, verify it end-to-end
   <img alt="github-snake" src="https://raw.githubusercontent.com/thetejascodes/thetejascodes/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-</div>
+</div> -->
