@@ -111,7 +111,23 @@ philosophy: ship it, document it, verify it end-to-end
       </ul>
       <p align="center"><sub>React 19 · TypeScript · Express 5 · MongoDB · JWT</sub></p>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="top">
+      <h3 align="center">☑️ <a href="https://github.com/thetejascodes/One-million-checkbox">One Million Checkboxes</a></h3>
+      <p align="center"><i>Real-time distributed system — 1M checkboxes, sub-second latency</i></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/demo-live-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/github/stars/thetejascodes/One-million-checkbox?style=flat-square&color=yellow" />
+      </p>
+      <ul>
+        <li>WebSocket toggle → Redis as source of truth → Redis Pub/Sub broadcasts to every server instance</li>
+        <li>Built to explore horizontal scaling: any server node can serve any client and stay in sync</li>
+        <li>Live at <a href="https://angelic-energy-production.up.railway.app/">angelic-energy-production.up.railway.app</a></li>
+      </ul>
+      <p align="center"><sub>Node.js · Express · Socket.IO · Redis Pub/Sub · Railway</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center" colspan="2">
       <h3>🗂️ More on GitHub</h3>
       <p><i>18 repos total — smaller experiments, learning projects, and tools live here</i></p>
       <p>
