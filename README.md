@@ -1,180 +1,145 @@
 <div align="center">
 
-# Tejas Kale 
-### Full Stack Developer • TypeScript, Node & Postgres
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=Tejas+Kale;Backend+%2F+Full+Stack+Developer;I+build+systems%2C+not+CRUD+apps." alt="Typing SVG" />
 
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@thetejascodes)
+<br>
+
+[![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@thetejascodes)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tejasx99/)
-[![Location](https://img.shields.io/badge/Parbhani%2C%20India-F97316?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-
-![Profile views](https://komarev.com/ghpvc/?username=thetejascodes&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=thetejascodes&style=for-the-badge&color=6E56CF&label=VIEWS)
 
 </div>
 
----
+<br>
 
-## 🧑‍💻 About Me
-
-```yaml
-name: Tejas Kale
-role: Full Stack Developer
-stack: [TypeScript, Node.js, Express, PostgreSQL, Redis, React]
-currently_building: production-style backends & AI-native tools
-currently_learning: distributed systems & system design at scale
-philosophy: ship it, document it, verify it end-to-end
+```
+$ whoami
+> Backend developer who thinks in services, not scripts.
+> If it can't survive a service crashing mid-request, it's not done.
 ```
 
-- 🔭 Building things like **event-driven microservices** and **spec-compliant OAuth servers**
-- 🌱 Deep-diving into **system design, security, and clean backend architecture**
-- ⚡ I like projects with real depth — ADRs, test suites, live deployments
-- 📫 Reach me on Hashnode or Instagram above
+<br>
 
----
+## ⚙️ Skills
 
-## 🚀 Featured Projects
+<div align="center">
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 <a href="https://github.com/thetejascodes/Flux">Flux</a></h3>
-      <p align="center"><i>A quick-commerce platform built as true microservices — not a CRUD storefront</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/status-in%20active%20development-orange?style=flat-square" />
-      </p>
-      <ul>
-        <li>Independent Gateway, Catalog, Inventory, Order, Payment & Delivery services — no shared database</li>
-        <li>Event-driven via RabbitMQ, saga-based order orchestration with compensating transactions</li>
-        <li>Zero-overselling concurrency control on stock reservations, geospatial delivery routing</li>
-        <li>Documented with ADRs for every major architecture decision</li>
-      </ul>
-      <p align="center"><sub>TypeScript · Node.js · Express 5 · PostgreSQL · Valkey/Redis · RabbitMQ · Docker</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔐 <a href="https://github.com/thetejascodes/Grantly">Grantly</a></h3>
-      <p align="center"><i>A production-style OpenID Connect (OIDC) Authorization Server</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/status-live-success?style=flat-square" />
-        <img src="https://img.shields.io/github/stars/thetejascodes/Grantly?style=flat-square&color=yellow" />
-      </p>
-      <ul>
-        <li>Spec-compliant OIDC provider — PKCE, refresh rotation, RFC 7591 dynamic registration</li>
-        <li>Clerk-style <code>/clients</code> API to manage OAuth apps, AES-256-GCM encrypted secrets</li>
-        <li>Social login (Google + GitHub), Redis rate limiting, full Vitest suite</li>
-        <li>Live at <a href="https://grantly-e90w.onrender.com">grantly-e90w.onrender.com</a> <sub>(free-tier — may take a few seconds to wake up)</sub></li>
-      </ul>
-      <p align="center"><sub>Express · TypeScript · Drizzle ORM · PostgreSQL · Redis · Docker</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌙 <a href="https://github.com/thetejascodes/Unsaid">Unsaid</a></h3>
-      <p align="center"><i>A space to say what you can't say to anyone you know</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/type-real--time%20chat-6E56CF?style=flat-square" />
-        <img src="https://img.shields.io/github/stars/thetejascodes/Unsaid?style=flat-square&color=yellow" />
-      </p>
-      <ul>
-        <li>Mood-based matching with strangers, backed by verified but pseudonymous accounts</li>
-        <li>WebSocket-powered real-time chat with image sharing</li>
-        <li>AI icebreakers + AI moderation on every message for safety</li>
-        <li>Reporting, blocking, and account-level bans that stick</li>
-      </ul>
-      <p align="center"><sub>WebSockets · Redis · PostgreSQL · Claude API · JWT</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌟 <a href="https://github.com/thetejascodes/Meridian">Meridian</a></h3>
-      <p align="center"><i>Keyboard-first, AI-native Gmail & Calendar client</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/built%20for-Corsair%20Hackathon-000000?style=flat-square" />
-      </p>
-      <ul>
-        <li>Superhuman-style inbox built on Corsair integrations (Gmail + Calendar)</li>
-        <li>AI agent chat — one message handles emails, invites, and scheduling</li>
-        <li>Real-time updates via webhooks, zero polling</li>
-        <li>Vector search over your entire email/calendar history, sub-second, local</li>
-      </ul>
-      <p align="center"><sub>Next.js · PostgreSQL + pgvector · Drizzle · Corsair MCP</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 <a href="https://github.com/thetejascodes/collabHub-team-work-space">CollabHub</a></h3>
-      <p align="center"><i>A full-stack collaboration platform for AI teams</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/thetejascodes/collabHub-team-work-space?style=flat-square&color=yellow" />
-      </p>
-      <ul>
-        <li>Workspace, project, and task management with comments & activity tracking</li>
-        <li>Secure auth with workspace-based access control</li>
-        <li>Polished React 19 + Vite frontend with Framer Motion interaction polish</li>
-        <li>TypeScript + Express 5 API with MongoDB persistence</li>
-      </ul>
-      <p align="center"><sub>React 19 · TypeScript · Express 5 · MongoDB · JWT</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">☑️ <a href="https://github.com/thetejascodes/One-million-checkbox">One Million Checkboxes</a></h3>
-      <p align="center"><i>Real-time distributed system — 1M checkboxes, sub-second latency</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/demo-live-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/github/stars/thetejascodes/One-million-checkbox?style=flat-square&color=yellow" />
-      </p>
-      <ul>
-        <li>WebSocket toggle → Redis as source of truth → Redis Pub/Sub broadcasts to every server instance</li>
-        <li>Built to explore horizontal scaling: any server node can serve any client and stay in sync</li>
-        <li>Live at <a href="https://angelic-energy-production.up.railway.app/">angelic-energy-production.up.railway.app</a></li>
-      </ul>
-      <p align="center"><sub>Node.js · Express · Socket.IO · Redis Pub/Sub · Railway</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center" colspan="2">
-      <h3>🗂️ More on GitHub</h3>
-      <p><i>18 repos total — smaller experiments, learning projects, and tools live here</i></p>
-      <p>
-        <a href="https://github.com/thetejascodes?tab=repositories">
-          <img src="https://img.shields.io/badge/Browse_all_repos-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,nextjs,postgres,redis,mongodb,docker,cpp&theme=dark" />
+
+</div>
+
+<table align="center">
+<tr><th align="left">Category</th><th align="left">Tools</th></tr>
+<tr><td>🧠 Languages</td><td>TypeScript, C++</td></tr>
+<tr><td>🖥️ Backend</td><td>Node.js, Express 5</td></tr>
+<tr><td>🎨 Frontend</td><td>React, Next.js</td></tr>
+<tr><td>🗄️ Data</td><td>PostgreSQL, Drizzle ORM, MongoDB, pgvector</td></tr>
+<tr><td>⚡ Real-time & Infra</td><td>Redis, Valkey, RabbitMQ, WebSockets, Docker</td></tr>
 </table>
 
----
+<br>
 
-## 🛠️ Tech Toolbox
+## 🚀 Projects
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<a href="https://github.com/thetejascodes/Flux">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thetejascodes&repo=Flux&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/thetejascodes/Grantly">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thetejascodes&repo=Grantly&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/thetejascodes/Unsaid">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thetejascodes&repo=Unsaid&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/thetejascodes/One-million-checkbox">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thetejascodes&repo=One-million-checkbox&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/thetejascodes/Meridian">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thetejascodes&repo=Meridian&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/thetejascodes/collabHub-team-work-space">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=thetejascodes&repo=collabHub-team-work-space&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
----
+<details>
+<summary><b>🛒 Flux — quick-commerce as true microservices</b></summary>
+<br>
 
-## 📊 GitHub Stats
+Six independent services (Gateway, Catalog, Inventory, Order, Payment, Delivery), no shared database, communicating over RabbitMQ. Saga pattern with compensating transactions for order orchestration. Concurrency-safe stock reservations, geospatial delivery routing, ADR for every major decision.
+
+`TypeScript` `Node.js` `PostgreSQL` `Valkey/Redis` `RabbitMQ` `Docker`
+</details>
+
+<details>
+<summary><b>🔐 Grantly — spec-compliant OIDC authorization server</b></summary>
+<br>
+
+PKCE, rotating refresh tokens, RFC 7591 dynamic client registration, AES-256-GCM encrypted secrets, Google/GitHub social login, Redis rate limiting, full Vitest suite. **[Live demo →](https://grantly-e90w.onrender.com)**
+
+`Express` `TypeScript` `Drizzle ORM` `PostgreSQL` `Redis`
+</details>
+
+<details>
+<summary><b>🌙 Unsaid — anonymous real-time chat, built responsibly</b></summary>
+<br>
+
+Mood-based stranger matching, verified but pseudonymous accounts, WebSocket chat with image sharing, AI icebreakers + AI moderation on every message, reporting/blocking/bans that stick.
+
+`WebSockets` `Redis` `PostgreSQL` `Claude API` `JWT`
+</details>
+
+<details>
+<summary><b>☑️ One Million Checkboxes — horizontal scaling, visualized</b></summary>
+<br>
+
+A shared board of 1M checkboxes. Toggle → Redis as source of truth → Pub/Sub broadcasts to every server node in real time. Any node can serve any client and stay in sync. **[Live demo →](https://angelic-energy-production.up.railway.app/)**
+
+`Node.js` `Socket.IO` `Redis Pub/Sub` `Railway`
+</details>
+
+<details>
+<summary><b>🌟 Meridian — AI-native Gmail & Calendar client</b></summary>
+<br>
+
+Keyboard-first inbox on Corsair integrations. One AI agent chat handles emails, invites, and scheduling. Webhook-driven, zero polling. Local vector search across your entire email history, sub-second.
+
+`Next.js` `PostgreSQL + pgvector` `Drizzle` `Corsair MCP`
+</details>
+
+<details>
+<summary><b>🤖 CollabHub — team collaboration platform</b></summary>
+<br>
+
+Workspace/project/task management with comments and activity tracking, workspace-scoped access control, React 19 + Vite frontend with Framer Motion polish, Express 5 + MongoDB backend.
+
+`React 19` `TypeScript` `Express 5` `MongoDB`
+</details>
 
 <div align="center">
 
+<sub>18 repos total — more experiments and tools live here →</sub>
+<br>
+<a href="https://github.com/thetejascodes?tab=repositories">
+<img src="https://img.shields.io/badge/Browse_all_repos-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+## 📊 Stats
+
+<div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=thetejascodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetejascodes&layout=compact&theme=tokyonight&hide_border=true" />
-
+<br>
 <img src="https://streak-stats.demolab.com/?user=thetejascodes&theme=tokyonight&hide_border=true" />
-
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thetejascodes/thetejascodes/output/github-contribution-grid-snake-dark.svg" />
@@ -182,10 +147,8 @@ philosophy: ship it, document it, verify it end-to-end
   <img alt="github-snake" src="https://raw.githubusercontent.com/thetejascodes/thetejascodes/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-</div>
-
----
+<br>
 
 <div align="center">
-<sub>Open to interesting backend / infra collaborations — open an issue on any repo above to say hi 👋</sub>
+<sub>Open to backend / infra collaborations — open an issue on any repo above to say hi 👋</sub>
 </div>
