@@ -189,8 +189,8 @@ Workspaces, projects, tasks, activity tracking.
 ### `~/stats --fetch`
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thetejascodes&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetejascodes&layout=compact&theme=chartreuse-dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats-beta-umber-84.vercel.app/api?username=thetejascodes&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&hide_rank=true" />
+<img height="165" src="https://github-readme-stats-beta-umber-84.vercel.app/api/top-langs/?username=thetejascodes&layout=compact&theme=chartreuse-dark&hide_border=true" />
 <br>
 <img src="https://streak-stats.demolab.com/?user=thetejascodes&theme=highcontrast&hide_border=true" />
 </div>
