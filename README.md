@@ -189,6 +189,10 @@ Workspaces, projects, tasks, activity tracking.
 ### `~/stats --fetch`
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=thetejascodes&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+</div>
+
+<div align="center">
 <img height="165" src="https://github-readme-stats-beta-umber-84.vercel.app/api?username=thetejascodes&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&hide_rank=true" />
 <img height="165" src="https://github-readme-stats-beta-umber-84.vercel.app/api/top-langs/?username=thetejascodes&layout=compact&theme=chartreuse-dark&hide_border=true" />
 <br>
