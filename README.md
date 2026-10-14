@@ -8,6 +8,7 @@ Building backend applications and exploring reliable, scalable systems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thetejascodes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaskale99)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/tejaskale__99)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@thetejascodes)
 
 </div>
@@ -92,6 +93,6 @@ I write about computer networking, backend engineering, and the concepts behind 
 
 *Learning continuously. Building thoughtfully.*
 
-[GitHub](https://github.com/thetejascodes) · [LinkedIn](https://www.linkedin.com/in/tejaskale99) · [Hashnode](https://hashnode.com/@thetejascodes)
+[GitHub](https://github.com/thetejascodes) · [LinkedIn](https://www.linkedin.com/in/tejaskale99) · [X](https://x.com/tejaskale__99) · [Hashnode](https://hashnode.com/@thetejascodes)
 
 </div>
