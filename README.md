@@ -24,7 +24,7 @@ I'm a developer focused on backend engineering, API development, and distributed
 - Exploring system design, message queues, caching, and real-time communication.
 - Learning networking fundamentals and how systems communicate.
 - Writing technical blogs to document my learning and share engineering concepts.
-- 🌐 Check out my portfolio: **[tejaskale-dev.vercel.app](https://tejaskale-dev.vercel.app/)**
+- Check out my portfolio: **[tejaskale-dev.vercel.app](https://tejaskale-dev.vercel.app/)**
 
 ### Tech Stack
 
