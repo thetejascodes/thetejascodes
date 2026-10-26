@@ -11,6 +11,7 @@ Building backend applications and exploring reliable, scalable systems.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaskale99)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/tejaskale__99)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@thetejascodes)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tejaskale9905@gmail.com)
 
 </div>
 
@@ -25,6 +26,7 @@ I'm a developer focused on backend engineering, API development, and distributed
 - Learning networking fundamentals and how systems communicate.
 - Writing technical blogs to document my learning and share engineering concepts.
 - Check out my portfolio: **[tejaskale-dev.vercel.app](https://tejaskale-dev.vercel.app/)**
+- Reach me at: **[tejaskale9905@gmail.com](mailto:tejaskale9905@gmail.com)**
 
 ### Tech Stack
 
@@ -95,6 +97,6 @@ I write about computer networking, backend engineering, and the concepts behind 
 
 *Learning continuously. Building thoughtfully.*
 
-[Portfolio](https://tejaskale-dev.vercel.app/) · [GitHub](https://github.com/thetejascodes) · [LinkedIn](https://www.linkedin.com/in/tejaskale99) · [X](https://x.com/tejaskale__99) · [Hashnode](https://hashnode.com/@thetejascodes)
+[Portfolio](https://tejaskale-dev.vercel.app/) · [GitHub](https://github.com/thetejascodes) · [LinkedIn](https://www.linkedin.com/in/tejaskale99) · [X](https://x.com/tejaskale__99) · [Hashnode](https://hashnode.com/@thetejascodes) · [Email](mailto:tejaskale9905@gmail.com)
 
 </div>
