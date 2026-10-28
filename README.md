@@ -2,7 +2,7 @@
 
 # Tejas Kale
 
-**Backend Developer · Distributed Systems · TypeScript**
+**Software Engineer · Backend & Distributed Systems · TypeScript**
 
 Building backend applications and exploring reliable, scalable systems.
 
@@ -11,7 +11,7 @@ Building backend applications and exploring reliable, scalable systems.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejaskale99)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/tejaskale__99)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://hashnode.com/@thetejascodes)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=tejaskale9905@gmail.com)
+[![Contact](https://img.shields.io/badge/Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://tejaskale-dev.vercel.app/#contact)
 
 </div>
 
@@ -19,14 +19,23 @@ Building backend applications and exploring reliable, scalable systems.
 
 ### About
 
-I'm a developer focused on backend engineering, API development, and distributed systems.
+I'm a software engineer focused on backend engineering, API development, and distributed systems.
 
 - Building applications with Node.js, TypeScript, and PostgreSQL.
 - Exploring system design, message queues, caching, and real-time communication.
 - Learning networking fundamentals and how systems communicate.
 - Writing technical blogs to document my learning and share engineering concepts.
-- Check out my portfolio: **[tejaskale-dev.vercel.app](https://tejaskale-dev.vercel.app/)**
-- Reach me at: **[tejaskale9905@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=tejaskale9905@gmail.com)**
+- Open to internships, junior roles, and freelance backend work.
+- Portfolio and contact: **[tejaskale-dev.vercel.app](https://tejaskale-dev.vercel.app/)**
+
+### Projects
+
+All personal projects, with source on GitHub.
+
+- **[Flux](https://github.com/thetejascodes/Flux)**: a quick-commerce backend built as 7 independent services. Event-driven order saga with compensation, zero-oversell inventory under concurrency, 96 tests, 5 ADRs. Payments are simulated; runs locally.
+- **[Grantly](https://github.com/thetejascodes/Grantly)**: an OpenID Connect authorization server with PKCE, refresh-token rotation and encrypted client secrets. [Live dashboard](https://grantly-dashboard-seven.vercel.app/).
+- **[Unsaid](https://github.com/thetejascodes/Unsaid)**: a mood-based real-time chat platform with WebSockets, AI moderation and an Expo mobile app (in development).
+- **[CollabHub](https://github.com/thetejascodes/collabHub-team-work-space)**: a full-stack team workspace with React, Express and MongoDB.
 
 ### Tech Stack
 
@@ -41,6 +50,7 @@ I'm a developer focused on backend engineering, API development, and distributed
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
 **Databases & ORM**
 
@@ -97,6 +107,6 @@ I write about computer networking, backend engineering, and the concepts behind 
 
 *Learning continuously. Building thoughtfully.*
 
-[Portfolio](https://tejaskale-dev.vercel.app/) · [GitHub](https://github.com/thetejascodes) · [LinkedIn](https://www.linkedin.com/in/tejaskale99) · [X](https://x.com/tejaskale__99) · [Hashnode](https://hashnode.com/@thetejascodes) · [Email](https://mail.google.com/mail/?view=cm&fs=1&to=tejaskale9905@gmail.com)
+[Portfolio](https://tejaskale-dev.vercel.app/) · [GitHub](https://github.com/thetejascodes) · [LinkedIn](https://www.linkedin.com/in/tejaskale99) · [X](https://x.com/tejaskale__99) · [Hashnode](https://hashnode.com/@thetejascodes) · [Contact](https://tejaskale-dev.vercel.app/#contact)
 
 </div>
